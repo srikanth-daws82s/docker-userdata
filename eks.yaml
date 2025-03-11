@@ -7,6 +7,6 @@ metadata:
 
 nodeGroups:
   - name: expense
-    instanceType: ["m5.large"]
+    instanceType: m5.large
     desiredCapacity: 1
     spot: true
